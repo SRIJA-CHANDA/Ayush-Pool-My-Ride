@@ -1,11 +1,11 @@
 <p><a target="_blank" href="https://app.eraser.io/workspace/Ux4DPV1fQsUtf4Ymo83M" id="edit-in-eraser-github-link"><img alt="Edit in Eraser" src="https://firebasestorage.googleapis.com/v0/b/second-petal-295822.appspot.com/o/images%2Fgithub%2FOpen%20in%20Eraser.svg?alt=media&amp;token=968381c8-a7e7-472a-8ed6-4a6626da5501"></a></p>
 
-# 🚗Pool My Ride🚗
+# 🚗Ayush-Pool-My-Ride🚗
 
-This repository contains the browser-based interface as well as the back-end architecture for the PoolMyRide web-based software
+This repository contains the browser-based interface as well as the back-end architecture for the Ayush-Pool-My-Ride web-based software
 
 ## ❔ What is it?
-The core idea behind "**Pool My Ride**" is to create a community-driven carpooling platform that connects drivers and riders traveling in the same direction. This platform aims to leverage the unused capacity of personal vehicles, making daily commutes more cost-effective and environmentally friendly
+The core idea behind "**Ayush-Pool-My-Ride**" is to create a community-driven carpooling platform that connects drivers and riders traveling in the same direction. This platform aims to leverage the unused capacity of personal vehicles, making daily commutes more cost-effective and environmentally friendly
 
 ### How so?
 We will look at an example, between Ramesh and Suresh.
@@ -32,8 +32,8 @@ This is however, not all, **we are also tackling traffic congestion as well as v
   
 ## ⚙ Brilliant, how can I run this application? 
 Please follow the following steps:
-- Open a terminal, and clone this repository <br> ``` git clone https://github.com/ritesh-debnath-12/PoolMyRide.git ```
-- Change the terminal to the local repository <br> ``` cd PoolMyRide ```
+- Open a terminal, and clone this repository <br> ``` [https://github.com/SRIJA-CHANDA/Ayush-Pool-My-Ride.git] ```
+- Change the terminal to the local repository <br> ``` cd Ayush-Pool-My-Ride ```
 - Install the required dependencies:
   ```
   npm install
